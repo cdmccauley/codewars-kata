@@ -22,7 +22,7 @@ public class ShortestWord {
 
     public static void main(String[] args) {
         String testString1 = "bitcoin take over the world maybe who knows perhaps";
-        String testString2 = "turns out random test cases are easier than writing out basic ones a";
+        String testString2 = "turns out random test cases are easier than writing out basic ones";
         
         System.out.println(findShort(testString1));
         System.out.println(findShort(testString2));
