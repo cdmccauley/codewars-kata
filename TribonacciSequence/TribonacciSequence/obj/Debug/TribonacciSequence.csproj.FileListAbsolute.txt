@@ -1,0 +1,7 @@
+C:\Users\Chris\Downloads\sync\github\codewars-kata\TribonacciSequence\TribonacciSequence\bin\Debug\TribonacciSequence.exe.config
+C:\Users\Chris\Downloads\sync\github\codewars-kata\TribonacciSequence\TribonacciSequence\bin\Debug\TribonacciSequence.exe
+C:\Users\Chris\Downloads\sync\github\codewars-kata\TribonacciSequence\TribonacciSequence\bin\Debug\TribonacciSequence.pdb
+C:\Users\Chris\Downloads\sync\github\codewars-kata\TribonacciSequence\TribonacciSequence\obj\Debug\TribonacciSequence.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Downloads\sync\github\codewars-kata\TribonacciSequence\TribonacciSequence\obj\Debug\TribonacciSequence.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Downloads\sync\github\codewars-kata\TribonacciSequence\TribonacciSequence\obj\Debug\TribonacciSequence.exe
+C:\Users\Chris\Downloads\sync\github\codewars-kata\TribonacciSequence\TribonacciSequence\obj\Debug\TribonacciSequence.pdb
