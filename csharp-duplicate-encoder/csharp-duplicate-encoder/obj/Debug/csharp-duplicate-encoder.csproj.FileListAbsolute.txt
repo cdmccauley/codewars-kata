@@ -1,0 +1,7 @@
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-duplicate-encoder\csharp-duplicate-encoder\bin\Debug\csharp-duplicate-encoder.exe.config
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-duplicate-encoder\csharp-duplicate-encoder\bin\Debug\csharp-duplicate-encoder.exe
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-duplicate-encoder\csharp-duplicate-encoder\bin\Debug\csharp-duplicate-encoder.pdb
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-duplicate-encoder\csharp-duplicate-encoder\obj\Debug\csharp-duplicate-encoder.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-duplicate-encoder\csharp-duplicate-encoder\obj\Debug\csharp-duplicate-encoder.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-duplicate-encoder\csharp-duplicate-encoder\obj\Debug\csharp-duplicate-encoder.exe
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-duplicate-encoder\csharp-duplicate-encoder\obj\Debug\csharp-duplicate-encoder.pdb
