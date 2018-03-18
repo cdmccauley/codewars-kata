@@ -1,0 +1,7 @@
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-validate-pin\csharp-validate-pin\bin\Debug\csharp-validate-pin.exe.config
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-validate-pin\csharp-validate-pin\bin\Debug\csharp-validate-pin.exe
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-validate-pin\csharp-validate-pin\bin\Debug\csharp-validate-pin.pdb
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-validate-pin\csharp-validate-pin\obj\Debug\csharp-validate-pin.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-validate-pin\csharp-validate-pin\obj\Debug\csharp-validate-pin.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-validate-pin\csharp-validate-pin\obj\Debug\csharp-validate-pin.exe
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-validate-pin\csharp-validate-pin\obj\Debug\csharp-validate-pin.pdb
