@@ -1,0 +1,7 @@
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-vasya-clerk\csharp-vasya-clerk\bin\Debug\csharp-vasya-clerk.exe.config
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-vasya-clerk\csharp-vasya-clerk\bin\Debug\csharp-vasya-clerk.exe
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-vasya-clerk\csharp-vasya-clerk\bin\Debug\csharp-vasya-clerk.pdb
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-vasya-clerk\csharp-vasya-clerk\obj\Debug\csharp-vasya-clerk.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-vasya-clerk\csharp-vasya-clerk\obj\Debug\csharp-vasya-clerk.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-vasya-clerk\csharp-vasya-clerk\obj\Debug\csharp-vasya-clerk.exe
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-vasya-clerk\csharp-vasya-clerk\obj\Debug\csharp-vasya-clerk.pdb
