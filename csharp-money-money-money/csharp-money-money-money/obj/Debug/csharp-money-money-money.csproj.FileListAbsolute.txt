@@ -1,0 +1,7 @@
+C:\Users\user-1\Downloads\sync\github\codewars-kata\csharp-money-money-money\csharp-money-money-money\bin\Debug\csharp-money-money-money.exe.config
+C:\Users\user-1\Downloads\sync\github\codewars-kata\csharp-money-money-money\csharp-money-money-money\bin\Debug\csharp-money-money-money.exe
+C:\Users\user-1\Downloads\sync\github\codewars-kata\csharp-money-money-money\csharp-money-money-money\bin\Debug\csharp-money-money-money.pdb
+C:\Users\user-1\Downloads\sync\github\codewars-kata\csharp-money-money-money\csharp-money-money-money\obj\Debug\csharp-money-money-money.csprojResolveAssemblyReference.cache
+C:\Users\user-1\Downloads\sync\github\codewars-kata\csharp-money-money-money\csharp-money-money-money\obj\Debug\csharp-money-money-money.csproj.CoreCompileInputs.cache
+C:\Users\user-1\Downloads\sync\github\codewars-kata\csharp-money-money-money\csharp-money-money-money\obj\Debug\csharp-money-money-money.exe
+C:\Users\user-1\Downloads\sync\github\codewars-kata\csharp-money-money-money\csharp-money-money-money\obj\Debug\csharp-money-money-money.pdb
