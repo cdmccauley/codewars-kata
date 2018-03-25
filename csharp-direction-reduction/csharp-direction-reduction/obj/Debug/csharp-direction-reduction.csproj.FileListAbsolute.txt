@@ -1,0 +1,7 @@
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-direction-reduction\csharp-direction-reduction\bin\Debug\csharp-direction-reduction.exe.config
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-direction-reduction\csharp-direction-reduction\bin\Debug\csharp-direction-reduction.exe
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-direction-reduction\csharp-direction-reduction\bin\Debug\csharp-direction-reduction.pdb
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-direction-reduction\csharp-direction-reduction\obj\Debug\csharp-direction-reduction.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-direction-reduction\csharp-direction-reduction\obj\Debug\csharp-direction-reduction.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-direction-reduction\csharp-direction-reduction\obj\Debug\csharp-direction-reduction.exe
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-direction-reduction\csharp-direction-reduction\obj\Debug\csharp-direction-reduction.pdb
