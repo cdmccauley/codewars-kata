@@ -1,0 +1,7 @@
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-detect-pangram\csharp-detect-pangram\bin\Debug\csharp-detect-pangram.exe.config
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-detect-pangram\csharp-detect-pangram\bin\Debug\csharp-detect-pangram.exe
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-detect-pangram\csharp-detect-pangram\bin\Debug\csharp-detect-pangram.pdb
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-detect-pangram\csharp-detect-pangram\obj\Debug\csharp-detect-pangram.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-detect-pangram\csharp-detect-pangram\obj\Debug\csharp-detect-pangram.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-detect-pangram\csharp-detect-pangram\obj\Debug\csharp-detect-pangram.exe
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-detect-pangram\csharp-detect-pangram\obj\Debug\csharp-detect-pangram.pdb
