@@ -1,0 +1,7 @@
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-highest-profit-wins\csharp-highest-profit-wins\bin\Debug\csharp-highest-profit-wins.exe.config
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-highest-profit-wins\csharp-highest-profit-wins\bin\Debug\csharp-highest-profit-wins.exe
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-highest-profit-wins\csharp-highest-profit-wins\bin\Debug\csharp-highest-profit-wins.pdb
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-highest-profit-wins\csharp-highest-profit-wins\obj\Debug\csharp-highest-profit-wins.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-highest-profit-wins\csharp-highest-profit-wins\obj\Debug\csharp-highest-profit-wins.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-highest-profit-wins\csharp-highest-profit-wins\obj\Debug\csharp-highest-profit-wins.exe
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-highest-profit-wins\csharp-highest-profit-wins\obj\Debug\csharp-highest-profit-wins.pdb
