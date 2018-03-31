@@ -1,0 +1,7 @@
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-sum-of-numbers\csharp-sum-of-numbers\bin\Debug\csharp-sum-of-numbers.exe.config
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-sum-of-numbers\csharp-sum-of-numbers\bin\Debug\csharp-sum-of-numbers.exe
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-sum-of-numbers\csharp-sum-of-numbers\bin\Debug\csharp-sum-of-numbers.pdb
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-sum-of-numbers\csharp-sum-of-numbers\obj\Debug\csharp-sum-of-numbers.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-sum-of-numbers\csharp-sum-of-numbers\obj\Debug\csharp-sum-of-numbers.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-sum-of-numbers\csharp-sum-of-numbers\obj\Debug\csharp-sum-of-numbers.exe
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-sum-of-numbers\csharp-sum-of-numbers\obj\Debug\csharp-sum-of-numbers.pdb
