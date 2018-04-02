@@ -1,0 +1,7 @@
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-find-the-stray-number\csharp-find-the-stray-number\bin\Debug\csharp-find-the-stray-number.exe.config
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-find-the-stray-number\csharp-find-the-stray-number\bin\Debug\csharp-find-the-stray-number.exe
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-find-the-stray-number\csharp-find-the-stray-number\bin\Debug\csharp-find-the-stray-number.pdb
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-find-the-stray-number\csharp-find-the-stray-number\obj\Debug\csharp-find-the-stray-number.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-find-the-stray-number\csharp-find-the-stray-number\obj\Debug\csharp-find-the-stray-number.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-find-the-stray-number\csharp-find-the-stray-number\obj\Debug\csharp-find-the-stray-number.exe
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-find-the-stray-number\csharp-find-the-stray-number\obj\Debug\csharp-find-the-stray-number.pdb
