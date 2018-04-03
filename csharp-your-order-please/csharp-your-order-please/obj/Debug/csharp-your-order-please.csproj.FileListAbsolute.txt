@@ -1,0 +1,7 @@
+C:\Users\user-1\Downloads\sync\github\codewars-kata\csharp-your-order-please\csharp-your-order-please\bin\Debug\csharp-your-order-please.exe.config
+C:\Users\user-1\Downloads\sync\github\codewars-kata\csharp-your-order-please\csharp-your-order-please\bin\Debug\csharp-your-order-please.exe
+C:\Users\user-1\Downloads\sync\github\codewars-kata\csharp-your-order-please\csharp-your-order-please\bin\Debug\csharp-your-order-please.pdb
+C:\Users\user-1\Downloads\sync\github\codewars-kata\csharp-your-order-please\csharp-your-order-please\obj\Debug\csharp-your-order-please.csprojResolveAssemblyReference.cache
+C:\Users\user-1\Downloads\sync\github\codewars-kata\csharp-your-order-please\csharp-your-order-please\obj\Debug\csharp-your-order-please.csproj.CoreCompileInputs.cache
+C:\Users\user-1\Downloads\sync\github\codewars-kata\csharp-your-order-please\csharp-your-order-please\obj\Debug\csharp-your-order-please.exe
+C:\Users\user-1\Downloads\sync\github\codewars-kata\csharp-your-order-please\csharp-your-order-please\obj\Debug\csharp-your-order-please.pdb
