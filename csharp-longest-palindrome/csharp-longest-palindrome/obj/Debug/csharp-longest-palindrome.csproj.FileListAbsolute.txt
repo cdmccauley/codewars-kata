@@ -1,0 +1,7 @@
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-longest-palindrome\csharp-longest-palindrome\bin\Debug\csharp-longest-palindrome.exe.config
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-longest-palindrome\csharp-longest-palindrome\bin\Debug\csharp-longest-palindrome.exe
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-longest-palindrome\csharp-longest-palindrome\bin\Debug\csharp-longest-palindrome.pdb
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-longest-palindrome\csharp-longest-palindrome\obj\Debug\csharp-longest-palindrome.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-longest-palindrome\csharp-longest-palindrome\obj\Debug\csharp-longest-palindrome.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-longest-palindrome\csharp-longest-palindrome\obj\Debug\csharp-longest-palindrome.exe
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-longest-palindrome\csharp-longest-palindrome\obj\Debug\csharp-longest-palindrome.pdb
