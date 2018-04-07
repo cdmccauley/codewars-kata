@@ -1,0 +1,7 @@
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-the-wave\csharp-the-wave\bin\Debug\csharp-the-wave.exe.config
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-the-wave\csharp-the-wave\bin\Debug\csharp-the-wave.exe
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-the-wave\csharp-the-wave\bin\Debug\csharp-the-wave.pdb
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-the-wave\csharp-the-wave\obj\Debug\csharp-the-wave.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-the-wave\csharp-the-wave\obj\Debug\csharp-the-wave.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-the-wave\csharp-the-wave\obj\Debug\csharp-the-wave.exe
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-the-wave\csharp-the-wave\obj\Debug\csharp-the-wave.pdb
