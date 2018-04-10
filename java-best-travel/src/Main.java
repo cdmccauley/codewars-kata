@@ -1,5 +1,6 @@
 import java.util.Arrays;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 import java.util.stream.IntStream;
 
@@ -13,7 +14,7 @@ public class Main {
             System.out.println("line 11"); /// DEBUG !!!
             return null;
         } else {
-            // https://en.wikipedia.org/wiki/Heap%27s_algorithm researching permutations
+            // still researching...
         }
 
         return -1;
@@ -21,8 +22,6 @@ public class Main {
 
     public static void main(String[] args) {
 
-	    System.out.println(chooseBestSum(163, 3, new ArrayList<>(Arrays.asList(50)))); /// null
-
-
+	    //System.out.println(chooseBestSum(163, 3, new ArrayList<>(Arrays.asList(50)))); /// null
     }
 }
