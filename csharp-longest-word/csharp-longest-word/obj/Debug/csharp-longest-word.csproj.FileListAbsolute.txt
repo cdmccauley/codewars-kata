@@ -1,0 +1,7 @@
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-longest-word\csharp-longest-word\bin\Debug\csharp-longest-word.exe.config
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-longest-word\csharp-longest-word\bin\Debug\csharp-longest-word.exe
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-longest-word\csharp-longest-word\bin\Debug\csharp-longest-word.pdb
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-longest-word\csharp-longest-word\obj\Debug\csharp-longest-word.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-longest-word\csharp-longest-word\obj\Debug\csharp-longest-word.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-longest-word\csharp-longest-word\obj\Debug\csharp-longest-word.exe
+C:\Users\Chris\Downloads\sync\github\codewars-kata\csharp-longest-word\csharp-longest-word\obj\Debug\csharp-longest-word.pdb
